@@ -8,10 +8,10 @@ mp4, 3gp, avi, flv, m4v, mov, mpeg, vob, mpg, mts, wmv
 webm, mkvm  
 # Requirements. 
 pip install -r requirements.txt. 
-# Usage. 
-- usage. 
-python vid2img.py [-h] [-o OUTDIR] [-i INTERVAL] [-e EXTENTION] [-p] path
-- default. 
+# Usage  
+- usage  
+python vid2img.py [-h] [-o OUTDIR] [-i INTERVAL] [-e EXTENTION] [-p] path  
+- default  
 python vid2img.py path -o extracted -i 60 -e png
 
 
